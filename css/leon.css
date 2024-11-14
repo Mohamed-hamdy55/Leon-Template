@@ -17,9 +17,11 @@
     box-sizing: border-box;
     margin:0;
     padding:0;
-    scroll-behavior: smooth;
     /* use for test any overflow taht can not be seen */
     /* outline: 5px solid green;  */
+}
+html{
+    scroll-behavior: smooth;
 }
 body{
     font-family: 'Work Sans';
